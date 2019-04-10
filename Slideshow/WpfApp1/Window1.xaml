@@ -1,0 +1,38 @@
+﻿<Window x:Class="ImageSlideshow.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageSlideshow"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"  Height="768" Width="1024" ShowInTaskbar="False" WindowStyle="None" ResizeMode="NoResize" >
+    
+    <Canvas Width="1024" Height="768">
+        <Image x:Name="myImage" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Width="1024" Height="768">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <TranslateTransform X="0" Y="0" />
+                </TransformGroup>
+            </Image.RenderTransform>
+            <Image.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Play/Pause Slideshow" Click="Click_PlayPause"/>
+                    <MenuItem Header="Stop slideshow" Click="Click_Stop"/>
+                </ContextMenu>
+            </Image.ContextMenu>
+        </Image>
+        <Image x:Name="myImage2" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Width="1024" Height="768">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <TranslateTransform X="0" Y="0" />
+                </TransformGroup>
+            </Image.RenderTransform>
+            <Image.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Play/Pause Slideshow" Click="Click_PlayPause"/>
+                    <MenuItem Header="Stop slideshow" Click="Click_Stop"/>
+                </ContextMenu>
+            </Image.ContextMenu>
+        </Image>
+    </Canvas>
+</Window>

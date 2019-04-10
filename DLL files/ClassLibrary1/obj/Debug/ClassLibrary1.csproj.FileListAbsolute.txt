@@ -1,0 +1,6 @@
+c:\users\piotr\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\piotr\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\piotr\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\piotr\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+c:\users\piotr\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\piotr\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

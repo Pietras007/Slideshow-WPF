@@ -1,0 +1,8 @@
+c:\users\piotr\source\repos\ClassLibrary1\Opacity\obj\Debug\Opacity.csproj.CoreCompileInputs.cache
+c:\users\piotr\source\repos\ClassLibrary1\Opacity\bin\Debug\Opacity.dll
+c:\users\piotr\source\repos\ClassLibrary1\Opacity\bin\Debug\Opacity.pdb
+c:\users\piotr\source\repos\ClassLibrary1\Opacity\bin\Debug\Interface.dll
+c:\users\piotr\source\repos\ClassLibrary1\Opacity\bin\Debug\Interface.pdb
+c:\users\piotr\source\repos\ClassLibrary1\Opacity\obj\Debug\Opacity.csprojResolveAssemblyReference.cache
+c:\users\piotr\source\repos\ClassLibrary1\Opacity\obj\Debug\Opacity.dll
+c:\users\piotr\source\repos\ClassLibrary1\Opacity\obj\Debug\Opacity.pdb

@@ -1,0 +1,8 @@
+c:\users\piotr\source\repos\ClassLibrary1\Vertical\bin\Debug\Vertical.dll
+c:\users\piotr\source\repos\ClassLibrary1\Vertical\bin\Debug\Vertical.pdb
+c:\users\piotr\source\repos\ClassLibrary1\Vertical\bin\Debug\Interface.dll
+c:\users\piotr\source\repos\ClassLibrary1\Vertical\bin\Debug\Interface.pdb
+c:\users\piotr\source\repos\ClassLibrary1\Vertical\obj\Debug\Vertical.csprojResolveAssemblyReference.cache
+c:\users\piotr\source\repos\ClassLibrary1\Vertical\obj\Debug\Vertical.csproj.CoreCompileInputs.cache
+c:\users\piotr\source\repos\ClassLibrary1\Vertical\obj\Debug\Vertical.dll
+c:\users\piotr\source\repos\ClassLibrary1\Vertical\obj\Debug\Vertical.pdb

@@ -1,0 +1,5 @@
+c:\users\piotr\source\repos\ClassLibrary1\Interface\bin\Debug\Interface.dll
+c:\users\piotr\source\repos\ClassLibrary1\Interface\bin\Debug\Interface.pdb
+c:\users\piotr\source\repos\ClassLibrary1\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+c:\users\piotr\source\repos\ClassLibrary1\Interface\obj\Debug\Interface.dll
+c:\users\piotr\source\repos\ClassLibrary1\Interface\obj\Debug\Interface.pdb

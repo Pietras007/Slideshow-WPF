@@ -1,0 +1,7 @@
+c:\users\piotr\source\repos\ClassLibrary1\Horizontal\bin\Debug\Horizontal.dll
+c:\users\piotr\source\repos\ClassLibrary1\Horizontal\bin\Debug\Horizontal.pdb
+c:\users\piotr\source\repos\ClassLibrary1\Horizontal\bin\Debug\Interface.dll
+c:\users\piotr\source\repos\ClassLibrary1\Horizontal\bin\Debug\Interface.pdb
+c:\users\piotr\source\repos\ClassLibrary1\Horizontal\obj\Debug\Horizontal.csproj.CoreCompileInputs.cache
+c:\users\piotr\source\repos\ClassLibrary1\Horizontal\obj\Debug\Horizontal.dll
+c:\users\piotr\source\repos\ClassLibrary1\Horizontal\obj\Debug\Horizontal.pdb

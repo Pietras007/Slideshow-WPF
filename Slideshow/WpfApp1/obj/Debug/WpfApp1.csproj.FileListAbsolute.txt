@@ -1,0 +1,159 @@
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+h:\Windows7\Desktop\WpfLab2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Piotr\Desktop\PwSG\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Piotrek\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\Lab2 WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Piotrek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\bin\Debug\Interface.dll
+C:\Users\Piotr\Desktop\nowy\WpfApp1\WpfApp1\bin\Debug\Interface.pdb
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\bin\Debug\Interface.pdb
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\bin\Debug\Interface.pdb
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\DLL\DO_ODDANIA\nowy\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\bin\Debug\Interface.pdb
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Piotr\Desktop\DLL\Slideshow\Slideshow\WpfApp1\obj\Debug\WpfApp1.pdb
